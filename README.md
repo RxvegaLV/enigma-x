@@ -19,6 +19,7 @@ The application does not rely on file extensions to identify encrypted files.ab
 
 
 *HOW TO USE*
+
 Run the application
 
 Choose and option
